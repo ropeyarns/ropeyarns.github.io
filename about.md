@@ -16,11 +16,7 @@ What we are teaching is inherited from Japanese rope bondage that evolved from t
 
 ## What style are you tying?
 
-It would be presoumptuous to say we are tying in the style of anyone in particular, and we are not endorsed to do so. However we need to give credit: nearly everything that we are studying comes from the Italian riggers  <a href="{{ site.riccardo-ig }}" target="_blank">Riccardo Wildties</a>, <a href="{{ site.kiri-ig }}" target="_blank">Federico Kirigami</a>, and <a href="{{ site.kuro-ig }}" target="_blank">Andrea Kurogami</a>, who are all inspired by the work of Japanese rigger <a href="{{ site.naka-ig }}" target="_blank">Akira Naka</a>.
-
-<!-- ## Is rope bondage erotic?
-
-The practice of rope bondage is rooted in an erotic culture. What you do with rope bondage is up to you. -->
+It would be presumptuous to say we are tying in the style of anyone in particular, and we are not endorsed to do so. However we need to give credit: nearly everything that we are studying comes from the Italian riggers  <a href="{{ site.riccardo-ig }}" target="_blank">Riccardo Wildties</a>, <a href="{{ site.kiri-ig }}" target="_blank">Federico Kirigami</a>, and <a href="{{ site.kuro-ig }}" target="_blank">Andrea Kurogami</a>, who are all inspired by the work of Japanese rigger <a href="{{ site.naka-ig }}" target="_blank">Akira Naka</a>.
 
 ## Do I need to bring rope to class?
 
@@ -28,7 +24,7 @@ We provide you with the rope you need for every introductory or beginner class.
 
 ## What should I wear to class?
 
-The clothes you wear should be comfortable. To be tied, we advise to avoid clothes made of rigid or slippery fabrics, like jeans or slippery leggings. A pair of Leggings with a cottony feel and a t-shirt are a good choice.
+The clothes you wear should be comfortable. To be tied, we advise you to avoid clothes made of rigid or slippery fabrics, like jeans or slippery leggings. A pair of Leggings with a cottony feel and a t-shirt are a good choice.
 
 ## Any unanswered question?
 

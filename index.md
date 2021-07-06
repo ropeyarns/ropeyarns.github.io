@@ -14,7 +14,7 @@ We teach rope bondage and sell bondage rope in Dublin.
 
 We accompany you whether you want to learn bondage as a tool to flavour your sensual life, or are interested in exploring intense rope dynamics.
 
-We offer one-on-one and in-group tuition. Topics and level are taylored to the students. Our focus is on solid technical basis and exploration of intent in rope.
+We offer one-on-one and in-group tuition. Topics and level are tailored to the students. Our focus is on solid technical basis and exploration of intent in rope.
 
  <a href="/contactform">Contact us</a> to ask anything or book a class.
 
