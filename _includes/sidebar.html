@@ -1,0 +1,43 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}/about">About</a>
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="https://www.etsy.com/ie/shop/ropeyarns", target="_blank">Shop</a>
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}/contactform">Contact</a>
+
+
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+      
+      {% comment %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% endcomment %}
+
+    </nav>
+    <p>
+      <a class="sidebar-icon-a" href="/contactform"><img class="sidebar-icon" src="/assets/icons/mail.png" alt="email logo"></a> <a class="sidebar-icon-a" href="https://www.instagram.com/ropeyarns/" target="_blank"><img class="sidebar-icon" src="/assets/icons/instagram.png" alt="instagram logo"></a> <a class="sidebar-icon-a" href="https://www.facebook.com/ropeyarns/" target="_blank"><img class="sidebar-icon" src="/assets/icons/facebook.png" alt="facebook logo"></a></p>
+    <p>  All rights reserved &copy; {{ site.time | date: '%Y' }}  </p> <p> Last update on {{ site.time | date: '%B %d, %Y' }} </p>
+
+  
+  </div>
+</div>

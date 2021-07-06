@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Rope Yarns
+tagline:          'Dublin'
+description:      'Rope bondage in Dublin'
+url:              https://ropeyarns.github.io
+baseurl:          ""
+
+author:
+  name:           'Benjamin Klein'
+  url:            "https://ropeyarns.github.io"
+
+#paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/ropeyarns.github.io
+
+#gems:
+#  - jekyll-last-modified-at
+
+#url
+ropetales:	   	https://www.ropetales.com/
+naka-ig:		https://www.instagram.com/nawanaka3mon/
+kiri-ig:		https://www.instagram.com/rope.tales2/		
+kuro-ig:		https://www.instagram.com/kurogamiandrea/
+riccardo-ig:		https://www.instagram.com/kinbakuluxuria/
+marta-ig:		https://www.instagram.com/martatenshiko/
+poppy-ig:		https://www.instagram.com/opium.decay/
+benjamin-ig:		https://www.instagram.com/benjamin.kinbaku/
