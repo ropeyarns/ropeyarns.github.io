@@ -10,12 +10,12 @@ relative_permalinks: false
 title:            Rope Yarns
 tagline:          'Dublin'
 description:      'Rope bondage in Dublin'
-url:              https://ropeyarns.github.io
+url:              https://ropeyarns.com
 baseurl:          ""
 
 author:
   name:           'Benjamin Klein'
-  url:            "https://ropeyarns.github.io"
+  url:            "https://ropeyarns.com"
 
 #paginate:         5
 
