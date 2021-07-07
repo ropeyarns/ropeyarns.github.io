@@ -5,7 +5,7 @@ title: About
 
 ## Who are you?
 
-Rope Yarns is run by <a href="https://www.instagram.com/benjamin_kinbaku/" target="_blank"> Benjamin Klein</a>.
+Rope Yarns is run by <a href="https://www.instagram.com/rope_yarns/" target="_blank"> Benjamin Klein</a>.
 He started learning with <a href="{{ site.ropetales }}" target="_blank">Rope Tales</a> in Milano in 2018. Fascinated by Japanese bondage, also called kinbaku or shibari, he is actively studying and believes good bondage starts with the exploration of our intentions.
 
 <a href="https://www.instagram.com/opium.decay/" target="_blank"> Poppy Devine</a> is modelling for Rope Yarns. She runs life drawing events at which she sometimes models, and has been pole dancing for three years. This passion in arts of the body - and a streak of masochism - led her to shibari and she has been hooked since.
@@ -28,4 +28,4 @@ The clothes you wear should be comfortable. To be tied, we advise you to avoid c
 
 ## Any unanswered question?
 
-Write to us on <a href="https://www.instagram.com/ropeyarns/" target="_blank"> instagram</a>, or using our <a href="/contactform">contact form</a>.
+Write to us on <a href="https://www.instagram.com/rope_yarns/" target="_blank"> instagram</a>, or using our <a href="/contactform">contact form</a>.

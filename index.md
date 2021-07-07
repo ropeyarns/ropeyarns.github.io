@@ -31,4 +31,4 @@ You can soon find raw and treated Japanese jute rope on our <a href="https://www
 
 # Any question?
 
-To book a class or for any information you can write to us on <a href="https://www.instagram.com/ropeyarns/" target="_blank"> instagram</a>, or using our <a href="/contactform">contact form</a>.
+To book a class or for any information you can write to us on <a href="https://www.instagram.com/rope_yarns/" target="_blank"> instagram</a>, or using our <a href="/contactform">contact form</a>.
