@@ -7,9 +7,6 @@ title: Home
 
 We teach rope bondage and sell bondage rope in Dublin.
 
-
- <img src="/assets/pictures/poppy.jpg" tile="Poppy" alt="Poppy Devine tied by Benjamin Klein" width="600">
-
 # Teaching
 
 We accompany you whether you want to learn bondage as a tool to flavour your sensual life, or are interested in exploring intense rope dynamics.
