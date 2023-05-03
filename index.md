@@ -15,10 +15,6 @@ We offer one-on-one and in-group tuition. Topics and level are tailored to the s
 
  <a href="/contactform">Contact us</a> to ask anything or book a class.
 
-## Covid
-
-We are closely following governmental guidelines. At the moment we offer outdoor group classes with up to four couples in our [sheltered backyard](/yard), and indoor private lessons with every attendee from the same household.
-
 # Shop
 
 You can soon find raw and treated Japanese jute rope on our <a href="https://www.etsy.com/ie/shop/ropeyarns" target="_blank">etsy shop</a>, together with some miscellaneous items.  <a href="/contactform">Contact us</a> directly for any question or custom order.
